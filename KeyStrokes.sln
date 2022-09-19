@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyStrokes", "KeyStrokes\KeyStrokes.csproj", "{8A87CD31-8C77-48B5-B18B-E07C263684BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A87CD31-8C77-48B5-B18B-E07C263684BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A87CD31-8C77-48B5-B18B-E07C263684BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A87CD31-8C77-48B5-B18B-E07C263684BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A87CD31-8C77-48B5-B18B-E07C263684BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7587FB0-0B0F-4114-B26E-4500831C0967}
+	EndGlobalSection
+EndGlobal
